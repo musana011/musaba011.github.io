@@ -1,0 +1,35 @@
+<!DOCTYPE html>                                                               
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Commpatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Aboute Me</title>
+</head>
+<body>
+
+   <header>
+         <a href="index.html" class="logo">IT Solusion</a> 
+         <nav class="navigation">
+           <a href="services.html">Services</a>
+           <a href="index.html">Home</a>
+           <a href="contact.html">Contact</a>
+         </nav>
+   </header>
+        <img src="image\photo3.jpg" alt="image\photo3.jpg">  <img src="image\photo2.jpg" alt="image\photo2.jpg">
+   
+   
+   <h3 style="text-align:center;">
+     <p style="text-align:center;">
+     <br><br><br><br>  I am Musa a network engineer, or network administrator, I can designing, installing and maintaining 
+         digital communication networks within an organisation.<br> My duties include establishing wireless networks,
+         developing digital communication networks and improving cyber-security.
+   </P></h3>
+   <br><br>
+ 
+        <img src="image\CN.jpg" alt="image\CN.jpg">              
+       
+  
+</body>
